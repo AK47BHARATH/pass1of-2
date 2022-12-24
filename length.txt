@@ -1,0 +1,2 @@
+The length of the code decimal : 4109
+The length of the code hexadecimal : 100d
